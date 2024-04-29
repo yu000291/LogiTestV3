@@ -24,7 +24,7 @@ part2: part2.ipynb
 ### Anomaly Detection:
 
 1. Use statistical metrics like mean, median, and standard deviation to find outliers in numerical columns. Z-score or IQR (Interquartile Range) methods can be effective.
-2. Plotting data can sometimes reveal outliers directly. Box plots and scatter plots are particularly useful for this.
+2. Plotting data can sometimes reveal outliers directly.
 
 ### Part2: 
 
